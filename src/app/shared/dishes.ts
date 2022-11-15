@@ -3,8 +3,8 @@ import { Dish } from './dish';
 export const DISHES: Dish[] = [
     {
         id: '0',
-        name: 'Uthappizza',
-        image: '/assets/images/uthappizza.png',
+        name: 'Pizza',
+        image: '/assets/images/pizza.png',
         category: 'mains',
         featured: true,
         label: 'Hot',
@@ -46,13 +46,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '1',
-        name: 'Zucchipakoda',
-        image: '/assets/images/zucchipakoda.png',
+        name: 'Makloub',
+        image: '/assets/images/makloub.png',
         category: 'appetizer',
         featured: false,
         label: '',
         price: '1.99',
-        description: 'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
+        description: 'Makloub au feu de bois ... ce gout rustique qui parcourt votre corps a chaque bouchée',
         comments: [
             {
                 rating: 5,
@@ -88,13 +88,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '2',
-        name: 'Vadonut',
-        image: '/assets/images/vadonut.png',
+        name: 'Plat escalope pané',
+        image: '/assets/images/Plat escalope pané.png',
         category: 'appetizer',
         featured: false,
         label: 'New',
         price: '1.99',
-        description: 'A quintessential ConFusion experience, is it a vada or is it a donut?',
+        description: 'On na pas que des pizzas chez Pizza The Hood On a aussi des plats Plat escalope pané Miam Miam',
         comments: [
             {
                 rating: 5,
@@ -130,13 +130,13 @@ export const DISHES: Dish[] = [
     },
     {
         id: '3',
-        name: 'ElaiCheese Cake',
-        image: '/assets/images/elaicheesecake.png',
+        name: 'Chicken nuggets',
+        image: '/assets/images/chicken nuggets.png',
         category: 'dessert',
         featured: false,
         label: '',
         price: '2.99',
-        description: 'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        description: 'Les chicken nuggets arrivent chez The Hood Accompagnez vos pizzas et sandwich par 6 pièces de nuggets',
         comments: [
             {
                 rating: 5,
