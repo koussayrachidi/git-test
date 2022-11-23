@@ -17,7 +17,7 @@ export const LEADERS: Leader[] = [
   {
     id: '1',
     name: 'AZIZ DAHMENI',
-    image: '/assets/images/alberto.png',
+    image: '/assets/images/dahma.png',
     designation: 'Chief Food Officer',
     abbr: 'CFO',
     featured: false,
